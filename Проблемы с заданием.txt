@@ -4,3 +4,5 @@
         sum_num_list.append(odd_cubed[odd_cubed.index(a)])
 
 Создал новую структуру на Github
+
+Пересоздание репозитория
