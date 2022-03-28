@@ -1,0 +1,8 @@
+1)win + R
+2)cmd
+3)mysqldump example > sample.sql
+4)mysql
+5)CREATE DATABASE sample;
+6)USE sample
+7)SOURCE sample.sql;
+8)SHOW TABLES;

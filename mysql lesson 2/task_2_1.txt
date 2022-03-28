@@ -1,0 +1,13 @@
+1)win + R
+2)cmd
+3)mysql
+4)CREATE DATABASE example;
+5)SHOW DATABASE;
+6)USE example;
+7)Открываем DBeaver и прописываем файл example.sql запускаем скрипт.
+8)SOURCE example.sql
+9)SHOW DATABASES;
+10)DESCRIBE users;
+11)SHOW CREATE TABLE users\G
+
+
