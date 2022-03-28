@@ -1,0 +1,9 @@
+1)win + R
+2)cmd
+3)mysql
+4)USE mysql
+5)DESCRIBE help_keyword;
+6)SELECT * FROM help_keyword;
+7)exit
+8)mysqldump mysql --skip-opt --where="1 limit 100" help_keyword > report.sql
+9)TYPE report.sql
